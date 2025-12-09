@@ -1,4 +1,4 @@
-Assignment 1 (Modern OpenGL, GLFW + GLAD)
+# Assignment 1 (Modern OpenGL, GLFW + GLAD)
 
 This folder contains **three** small programs that match your assignment spec:
 
